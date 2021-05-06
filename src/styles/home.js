@@ -4,6 +4,7 @@ export const SectionHeroStyle = styled.section`
   position: relative;
   flex: 1;
   height: 808px;
+  // margin-bottom: -70px;
   .container {
     position: relative;
     height: 100%;
@@ -120,7 +121,6 @@ export const SectionHeroStyle = styled.section`
 
 export const SectionWhatStyle = styled.section`
   position: relative;
-  padding-top: 4.25rem;
   margin-bottom: 5rem;
   &:after {
     content: "";
