@@ -26,6 +26,7 @@ export default function MenuMobile() {
           <li><Link to="/community" activeClassName="active">Community</Link></li>
           <li><a href="https://docs.shellhub.io/" target="_blank" rel="noreferrer">Documentation</a></li>
           <li><Link to="/articles" activeClassName="active">Articles</Link></li>
+          <li><Link to="/blog" activeClassName="active">Blog</Link></li>
           <li><Link to="/pricing" activeClassName="active">Pricing</Link></li>
           <li><Link to="/contact" activeClassName="active">Contact</Link></li>
         </ul>

@@ -28,6 +28,9 @@ const Header = ({fixed}) => {
               <Link to="/articles" activeClassName="active">Articles</Link>
             </li>
             <li>
+              <Link to="/blog" activeClassName="active">Blog</Link>
+            </li>
+            <li>
               <Link to="/pricing" activeClassName="active">Pricing</Link>
             </li>
             <li>
